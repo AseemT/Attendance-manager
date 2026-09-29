@@ -1,0 +1,17 @@
+# How to Use — Attendance Manager
+
+A step-by-step operational guide for running and managing course records with **Attendance Manager**.
+
+---
+
+## 1. Quick Start
+
+### Prerequisites
+- **Python 3.8+** installed.
+- No third-party packages required (runs purely on standard Python).
+
+### Running the Application
+Open your terminal in the project directory and run:
+
+```bash
+python attendance_manager.py
